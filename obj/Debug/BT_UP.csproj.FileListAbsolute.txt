@@ -1,0 +1,35 @@
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\bin\Debug\BT_UP.exe.config
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\bin\Debug\BT_UP.exe
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\bin\Debug\BT_UP.pdb
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\obj\Debug\BT_UP.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\obj\Debug\BT_UP.FormBT.resources
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\obj\Debug\BT_UP.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\obj\Debug\BT_UP.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\obj\Debug\BT_UP.exe
+C:\Users\Mateusz\Desktop\Projekty c#\BT_UP\obj\Debug\BT_UP.pdb
+C:\Users\Mateusz\Desktop\up\BT_UP\bin\Debug\BT_UP.exe.config
+C:\Users\Mateusz\Desktop\up\BT_UP\bin\Debug\BT_UP.exe
+C:\Users\Mateusz\Desktop\up\BT_UP\bin\Debug\BT_UP.pdb
+C:\Users\Mateusz\Desktop\up\BT_UP\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Mateusz\Desktop\up\BT_UP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\up\BT_UP\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Mateusz\Desktop\up\BT_UP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mateusz\Desktop\up\BT_UP\obj\Debug\BT_UP.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\up\BT_UP\obj\Debug\BT_UP.FormBT.resources
+C:\Users\Mateusz\Desktop\up\BT_UP\obj\Debug\BT_UP.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\up\BT_UP\obj\Debug\BT_UP.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\up\BT_UP\obj\Debug\BT_UP.csproj.CopyComplete
+C:\Users\Mateusz\Desktop\up\BT_UP\obj\Debug\BT_UP.exe
+C:\Users\Mateusz\Desktop\up\BT_UP\obj\Debug\BT_UP.pdb
+C:\Users\Mateusz\Desktop\BT_UP\bin\Debug\BT_UP.exe.config
+C:\Users\Mateusz\Desktop\BT_UP\bin\Debug\BT_UP.exe
+C:\Users\Mateusz\Desktop\BT_UP\bin\Debug\BT_UP.pdb
+C:\Users\Mateusz\Desktop\BT_UP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mateusz\Desktop\BT_UP\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Mateusz\Desktop\BT_UP\obj\Debug\BT_UP.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\BT_UP\obj\Debug\BT_UP.FormBT.resources
+C:\Users\Mateusz\Desktop\BT_UP\obj\Debug\BT_UP.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\BT_UP\obj\Debug\BT_UP.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\BT_UP\obj\Debug\BT_UP.csproj.CopyComplete
+C:\Users\Mateusz\Desktop\BT_UP\obj\Debug\BT_UP.exe
+C:\Users\Mateusz\Desktop\BT_UP\obj\Debug\BT_UP.pdb
